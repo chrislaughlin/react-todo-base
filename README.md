@@ -1,2 +1,5 @@
 # react-todo-base
-Created with CodeSandbox
+
+npm install
+
+npm start
